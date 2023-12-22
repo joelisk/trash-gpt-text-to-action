@@ -128,7 +128,7 @@ class ExampleMoveItTrajectories(object):
     # Initialize the node
     super(ExampleMoveItTrajectories, self).__init__()
     moveit_commander.roscpp_initialize(sys.argv)
-    rospy.init_node('example_move_it_trajectories')
+    rospy.init_node('move_it_service')
 
     try:
       self.is_gripper_present = rospy.get_param(rospy.get_namespace() + "is_gripper_present", False)
