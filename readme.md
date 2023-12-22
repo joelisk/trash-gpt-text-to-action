@@ -1,8 +1,10 @@
 # trash-gpt
 ROB 5994 Project
 <!-- ![trash-gpt](https://github.com/joelisk/trash-gpt/assets/72030405/f55cf213-2243-4c3d-9d52-cfeb9f47ea32) -->
+Check out the video of the final project [here](https://www.youtube.com/watch?v=LHBu9tNYiP0&t=4s)
 
 *Formatted for readability.*
+
 ```
 System prompt for GPT-4:
 
@@ -21,10 +23,8 @@ steps you outline as a comment or the code
 will fail to run.
 ```
 
-*Formatted for readability.*
 ```
 Beer A user prompt for GPT-4:
-*Formatted for readability.*
 
 There are two objects in the environment.
 
@@ -74,10 +74,8 @@ text, just provide the list. You don't need to
 assign the list to a variable.
 ```
 
-*Formatted for readability.*
 ```
 Beer B user prompt for GPT-4:
-*Formatted for readability.*
 
 There are two objects in the environment.
 
