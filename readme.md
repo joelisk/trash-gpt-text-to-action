@@ -8,6 +8,24 @@
 
 ### Also check out my Kinova quickstart guide [here](https://github.com/joelisk/kinova-quickstart-guide-gen3-gen3lite)
 
+### My code files: 
+```
+|--- kortex_examples
+|    |--- src
+|    |    |--- move_it
+|    |    |    |--- test_scripts
+|    |    |    |    |--- getInputFromUser.py
+|    |    |    |    |--- getObjAndPoseFromGPT.py
+|    |    |    |    |--- testOutputFromGPT.py
+|    |    |    |--- chatGPTService.py
+|    |    |    |--- figures.md
+|    |    |    |--- jointGPTPrompt.py
+|    |    |    |--- chatGPTService.py
+|    |    |    |--- LICENSE.txt
+|    |    |    |--- moveItService3.py
+|    |    |    |--- moveItServiceLITE.py
+```
+
 ### Prompts used:
 *Formatted for readability.*
 
