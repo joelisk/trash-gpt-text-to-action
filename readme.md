@@ -1,11 +1,12 @@
 # trash-gpt-text-to-action
-ROB 5994 Project
+## ROB 5994 Project
 <!-- ![trash-gpt](https://github.com/joelisk/trash-gpt/assets/72030405/f55cf213-2243-4c3d-9d52-cfeb9f47ea32) -->
-Block diagram of the system architecture:
+### Block diagram of the system architecture:
 ![Start](https://github.com/joelisk/trash-gpt-text-to-action/assets/72030405/b0e3b684-3362-4cbd-9582-3d9cd36b5185)
 
-Check out the video of the final project [here](https://www.youtube.com/watch?v=LHBu9tNYiP0&t=4s)
+## Check out the video of the final project [here](https://www.youtube.com/watch?v=LHBu9tNYiP0&t=4s)
 
+### Prompts used:
 *Formatted for readability.*
 
 ```
