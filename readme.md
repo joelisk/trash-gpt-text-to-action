@@ -1,4 +1,4 @@
-# trash-gpt
+# trash-gpt-text-to-action
 ROB 5994 Project
 <!-- ![trash-gpt](https://github.com/joelisk/trash-gpt/assets/72030405/f55cf213-2243-4c3d-9d52-cfeb9f47ea32) -->
 Block diagram of the system architecture:
