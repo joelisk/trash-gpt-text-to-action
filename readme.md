@@ -11,6 +11,8 @@
 ### My code files: 
 ```
 |--- kortex_examples
+|    |--- launch
+|    |    |---moveItService.launch
 |    |--- src
 |    |    |--- move_it
 |    |    |    |--- test_scripts
