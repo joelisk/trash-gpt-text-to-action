@@ -6,6 +6,8 @@
 
 ## Check out the video of the final project [here](https://www.youtube.com/watch?v=LHBu9tNYiP0&t=4s)
 
+### Also check out my Kinova quickstart guide [here](https://github.com/joelisk/kinova-quickstart-guide-gen3-gen3lite)
+
 ### Prompts used:
 *Formatted for readability.*
 
